@@ -31,3 +31,9 @@ object plancha {
 	method esComida() { return false }
 	method esElectrodomestico() { return true }	
 }
+
+object plancha {
+	method precio() { return 12000 }
+	method esComida() { return false }
+	method esElectrodomestico() { return true }	
+}
